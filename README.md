@@ -105,13 +105,7 @@ Notifications and Reminders
 Activity Tracking
 Real-Time Updates
 Screenshots
-## Screenshots
-
-### Login Page
-![Login Page](./screenshots/login.png)
-
-### Tasks Page
-![Tasks Page](./screenshots/tasks.png)
+![Login Page](login.png)
 
 Author
 Sathvik Errabelli

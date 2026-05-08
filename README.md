@@ -104,9 +104,9 @@ Team Collaboration Features
 Notifications and Reminders
 Activity Tracking
 Real-Time Updates
-Screenshots
-![Login Page](./screenshots/login.png)
-![Tasks Page](./screenshots/task.png)
+![Login Page](https://raw.githubusercontent.com/ErrabelliSathvik/team-task-manager-frontend/main/screenshots/login.png)
+
+![Tasks Page](https://raw.githubusercontent.com/ErrabelliSathvik/team-task-manager-frontend/main/screenshots/task.png)
 
 Author
 Sathvik Errabelli

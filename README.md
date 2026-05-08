@@ -33,10 +33,10 @@ A full-stack MERN task management application with authentication, task tracking
 ## Live Demo
 
 ### Frontend
-https://YOUR-VERCEL-URL.vercel.app
+https://team-task-manager-frontend.vercel.app/
 
 ### Backend API
-https://YOUR-RENDER-URL.onrender.com
+https://team-task-manager-backend-bfgy.onrender.com
 
 ## Installation
 
